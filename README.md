@@ -9,3 +9,6 @@ This is full of experiments that are based of aitextgen Python package.
 2. Create a virtual environment using pipenv
 3. Install the dependencies using pipenv
 4. Run the jupyter notebook
+
+## GPT Model Training
+This is full of experiments that are based of aitextgen Python package. Different notebooks are used for different experiments.
