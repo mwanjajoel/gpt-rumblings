@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 aitextgen = "==0.5.1"
+gradio = "*"
 
 [dev-packages]
 ipykernel = "*"
