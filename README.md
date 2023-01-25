@@ -1,5 +1,3 @@
-![](img/demo_1.png)
-
 ---
 title: GPT-2 rumblings
 emoji: 🤖
@@ -13,7 +11,7 @@ tags:
 - gpt-2 rumblings
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+![](img/demo_1.png)
 
 # AI Text Generation
 This repository contains jupyter notebooks and python scripts that demo the training of a GPT model and the generation of text using the trained model. 
