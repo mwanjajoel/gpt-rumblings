@@ -13,6 +13,10 @@ tags:
 
 ![](img/demo_1.png)
 
+## Demo 
+Here is a link to Huggingface's demo of the GPT-2 rumblings model.
+[https://huggingface.co/spaces/codebender/gpt-2-rumblings](https://huggingface.co/spaces/codebender/gpt-2-rumblings)
+
 # AI Text Generation
 This repository contains jupyter notebooks and python scripts that demo the training of a GPT model and the generation of text using the trained model. 
 
@@ -36,3 +40,4 @@ To run the demos, simply run the python scripts after installing the dependencie
 
 ## GPT Model Training
 Different notebooks are used for different experiments.
+
