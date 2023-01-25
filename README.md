@@ -1,5 +1,20 @@
 ![](img/demo_1.png)
 
+---
+title: GPT-2 rumblings
+emoji: 🤖
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: 3.9.1
+app_file: app.py
+pinned: false
+tags:
+- gpt-2 rumblings
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # AI Text Generation
 This repository contains jupyter notebooks and python scripts that demo the training of a GPT model and the generation of text using the trained model. 
 
