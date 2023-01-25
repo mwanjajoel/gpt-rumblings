@@ -382,7 +382,6 @@
             "version": "==1.3.3"
         },
         "fsspec": {
-            "extras": [],
             "hashes": [
                 "sha256:b833e2e541e9e8cde0ab549414187871243177feb3d344f9d27b25a93f5d8139",
                 "sha256:fbae7f20ff801eb5f7d0bedf81f25c787c0dfac5e982d98fa3884a9cde2b5411"
